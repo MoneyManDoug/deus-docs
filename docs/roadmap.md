@@ -1,7 +1,7 @@
 ---
 id: roadmap
 title: Roadmap
-description: 'Timeline of the mportant milestones and updates'
+description: 'Timeline of the important milestones and updates'
 ---
 
 **Q1 2021: Implement time-locked staking contracts called “Sands of Time Vaults.”**
