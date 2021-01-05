@@ -40,7 +40,13 @@ module.exports = {
       label: 'DEUS DAO',
       items: ['governance','dao', 'contribute'],
       collapsed: false,
-    }
+    },
+    {
+      type: 'category',
+      label: 'Risks',
+      items: ['who is taking the risk','how are risks minimized', 'who is the counterparty'],
+      collapsed: false,
+      
 
   ],
 }
